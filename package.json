@@ -1,0 +1,16 @@
+{
+  "name": "big-rig-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright-core": "^1.64.1",
+    "three": "^0.150.1"
+  }
+}
